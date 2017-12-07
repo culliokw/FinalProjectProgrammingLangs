@@ -16,3 +16,7 @@ To demostrate difference in porgrammer effort in terms of intuitive code and rea
 1. Add more matrix operations
 2. Pivot to a more complex operation to check the differences there
 3. Compare the paradigms as we look to optimise the code further
+
+# Contributors:
+1. [Kyle Cullion](https://github.com/culliokw)
+2. [Vivek Kunapareddy](https://github.com/kunapavk)
