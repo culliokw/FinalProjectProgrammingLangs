@@ -2,11 +2,11 @@
 Matrix Operations in Haskell
 
 # Instructions for running the code:
-Haskell code can be run through Glasgow Haskell Compiler(ghci)
-Instructions to download ghci can be found [here](https://www.haskell.org/ghc/)
+Haskell code can be run through Glasgow Haskell Compiler(ghci) <br />
+Instructions to download ghci can be found [here](https://www.haskell.org/ghc/) <br />
 This code was tested on ghci v8.0.2
 
-C++ code can be run by compiling the code through g++ or Visual Studio
+C++ code can be run by compiling the code through g++ or Visual Studio <br />
 Requirements for C++ code: All the files must be in the same directory
 
 # Objective of this project
